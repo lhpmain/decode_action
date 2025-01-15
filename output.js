@@ -1,10 +1,10 @@
-//Wed Jan 15 2025 05:57:58 GMT+0000 (Coordinated Universal Time)
+//Wed Jan 15 2025 06:01:33 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 !function () {
   var w = {
     669: function (y, N, G) {
-      "use strict";
+      "https://github.com/lhpmain/Bncr_plugins/blob/main/plugins/lhpmain/%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.js";
 
       var M = {
         f4: function () {
